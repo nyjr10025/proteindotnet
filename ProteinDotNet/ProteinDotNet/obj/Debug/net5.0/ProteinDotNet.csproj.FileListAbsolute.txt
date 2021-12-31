@@ -1,0 +1,15 @@
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.csproj.AssemblyReference.cache
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.AssemblyInfoInputs.cache
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.AssemblyInfo.cs
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.csproj.CoreCompileInputs.cache
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ProteinDotNet.deps.json
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ProteinDotNet.runtimeconfig.json
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ProteinDotNet.runtimeconfig.dev.json
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ProteinDotNet.dll
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ref/ProteinDotNet.dll
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/bin/Debug/net5.0/ProteinDotNet.pdb
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.dll
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ref/ProteinDotNet.dll
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.pdb
+/Users/nyjr/projects/proteindotnet/ProteinDotNet/ProteinDotNet/obj/Debug/net5.0/ProteinDotNet.genruntimeconfig.cache
